@@ -1,7 +1,7 @@
 {
   "users": [
-    { "id": 15, "name": "Alice", "email": "alice@example.com", "role": "admin" },
-    { "id": 26, "name": "Bob", "email": "bob@example.com", "role": "user" }
+    { "id": 15, "name": "Dima", "email": "Dimon@example.com", "role": "admin" },
+    { "id": 26, "name": "Masha", "email": "Mashka@example.com", "role": "user" }
   ],
   "posts": [
     { "id": 1, "title": "Hello REST", "userId": 1, "tags": ["intro","rest"] },
